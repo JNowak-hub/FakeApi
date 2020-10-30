@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$lPZ7vVvrrs.nuNfF6r7vtucxNyg9T9zOBZfA0nOtOkA789x485Uam",
+      "clientInfo": {
+        "firstName": "admin",
+        "lastName": "admin",
+        "birthDay": "2000-01-01",
+        "industry": "finanse",
+        "subCategory": "bank",
+        "telephoneNumber": "111222333"
+      },
+      "id": 1
+    }
+  ]
+}
