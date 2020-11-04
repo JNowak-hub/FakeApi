@@ -1,17 +1,50 @@
 {
   "users": [
     {
-      "email": "admin@admin.com",
-      "password": "$2a$10$lPZ7vVvrrs.nuNfF6r7vtucxNyg9T9zOBZfA0nOtOkA789x485Uam",
-      "clientInfo": {
-        "firstName": "admin",
-        "lastName": "admin",
-        "birthDay": "2000-01-01",
-        "industry": "finanse",
-        "subCategory": "bank",
-        "telephoneNumber": "111222333"
-      },
+      "email": "user@email.com",
+      "password": "password",
       "id": 1
+    },
+    {
+      "email": "sanderzkosmos@interia.pl",
+      "password": "$2a$10$a8RQaSV5AOL2ymXahEWqT.hzR0u5IyN4pU8rorKnW6nOzMh19vMaO",
+      "id": 2
+    },
+    {
+      "email": "emai@email.com",
+      "password": "$2a$10$BbisGBy/WvsGSsQacWrWSeXhKBT4CPtQWMh5YUGH/mLbI7DrNyerW",
+      "id": 3
+    },
+    {
+      "email": "nowakjakub095@gmail.com",
+      "password": "$2a$10$MiZU/g.SwHY/jxIec6CxCOOgQketAX.d3sYgPcx7KCAZhOgeHgYj6",
+      "id": 4
+    }
+  ],
+  "clients": [
+    {
+      "email": "nowakjakub095@gmail.com",
+      "id": 1,
+      "clientInfo": {
+        "firstName": "Jakub",
+        "lastName": "Nowak",
+        "birthDay": "0001-11-11",
+        "industry": "Media",
+        "subCategory": "TV",
+        "telephoneNumber": "790257510"
+      }
+    },
+    {
+      "email": "nowakjakub095@gmail.com",
+      "id": 2,
+      "clientInfo": {
+        "firstName": "Jakub",
+        "lastName": "Nowak",
+        "birthDay": "0001-01-01",
+        "industry": "Media",
+        "subCategory": "TV",
+        "telephoneNumber": "790257510"
+      }
     }
   ]
 }
